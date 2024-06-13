@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+  color: white;
+}
+
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-image: url(download.jpg);
+  background-size: cover;
+  text-align: center;
+  font-weight: bold;
+}
+
+h1 {
+  color: #e2a740
+}
+
+#message-el {
+  font-style: italic;
+}
+
+button {
+  width: 120px;
+  color: #016f32;
+  background: goldenrod;
+  padding: 10px auto;
+  font-weight: bold;
+  border: none;
+  border-radius: 2px;
+}
+
+#newcard-btn {
+  display: block;
+  margin: 5px auto;
+}
